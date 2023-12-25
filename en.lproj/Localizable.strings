@@ -1,0 +1,33 @@
+/*
+  Localizable.strings
+  NotificationsApp
+
+  Created by bsamh on 25/12/2023.
+  
+*/
+
+"positivity_doses" = "Positivity Doses: %d";
+"start_time" = "Start time:";
+"end_time" = "End time:";
+"remind_me" = "Remind me";
+"positivity_dose_button" = "I need a Positivity-Dose NOW";
+"not_working" = "Not working?";
+"request_permissions" = "Request permissions";
+
+"IF you get tired, learn to rest not to quit" = "IF you get tired,
+ learn to rest not to quit";
+"There is no Failure You either Win or Learn" = "There is no Failure
+ You either Win or Learn";
+"Let your dreams be your wings" = "Let your dreams be your
+ wings";
+"Hey, when life gives you Monday , Dip it in glitter and Sparkle all day" = "Hey,
+ when life gives you Monday ,
+Dip it in glitter and Sparkle all day";
+"Life is 10% what happens to you , and 90% how you react to it" = "Life is 10% what happens to you , 
+and 90% how you react to it";
+"If the plan doesn’t work change the plan but never the Goal" = "If the plan doesn’t work change the plan but never the Goal";
+"Unless someone like you cares a whole awful lot nothing is going to get better it’s not" = "Unless someone like you cares a whole awful lot nothing is going to get better it’s not";
+
+"Be who you are and say how you feel because those who mind don’t matter and those who matter don’t mind" = "Be who you are and say how you feel because those who mind don’t matter and those who matter don’t mind";
+"You’re on your own. And you know what you know, and you are the one who’ll decide where to go." = "You’re on your own. And you know what you know, and you are the one who’ll decide where to go.";
+"You’ll be on your way Up! You’ll be seeing great sights! You’ll join the high fliers Who soar to high heights." = "You’ll be on your way Up! You’ll be seeing great sights! You’ll join the high fliers Who soar to high heights.";

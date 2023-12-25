@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  NotificationsApp
+
+  Created by bsamh on 25/12/2023.
+  
+*/
+"positivity_doses" = "جرعة إيجابية: %d";
+"start_time" = "وقت البدء:";
+"end_time" = "وقت الانتهاء:";
+"remind_me" = "ذكرني";
+"positivity_dose_button" = "أحتاج جرعة إيجابية الآن";
+"not_working" = "لا يعمل؟";
+"request_permissions" = "طلب الإذن";
+"IF you get tired, learn to rest not to quit" =  "كن بلسما إن صار دهرك أرقما
+ وحلاوة إن صار غيرك علقما";
+"There is no Failure You either Win or Learn" = "لا يكفي أن تكون على قيد الحياة
+ ، يجب أن تكون على قيد الأمل ، على قيد الحلم ، على قيد التفاؤل،
+ على قيد كل شئ جميل سيحصل لك بأي يوم …
+صباح الخير";
+"Let your dreams be your wings" = "فقط أبدأ السعي 
+و سييسر الله لك السبل";
+"Hey, when life gives you Monday , Dip it in glitter and Sparkle all day" = "مهما كانت رحلة الحلم طويلة و شاقة 
+.. استمتع بالطريق";
+"Life is 10% what happens to you , and 90% how you react to it" = "سأنجح ..
+ سأحقق أحلامي..
+ سأستثمر أيامي..
+ سأتحدى ذاتي..
+ سأقهر مخاوفي..";
+"If the plan doesn’t work change the plan but never the Goal" = "((ولسوف يعطيك ربك فترضى))
+ من عامل الله باليقين .. عامله الله بالمعجزات";
+"Unless someone like you cares a whole awful lot nothing is going to get better it’s not" = "وغداً سيجري دمع عينك فرحةً .. 
+وترى السحائب بالأماني أمطرت ..
+وترى ظروف الأمس صارت بلسماً ..
+وهي التي أعيتك حين تعسرت";
+
+"Be who you are and say how you feel because those who mind don’t matter and those who matter don’t mind" = "حياتك تتغير عندما تتغير أنت… 
+وتقف عند حدود وضعتها انت لنفسك…";
+"You’re on your own. And you know what you know, and you are the one who’ll decide where to go." ="خيب ظنهم ..وكن أنت.. احلم.. واصل.. قاتل.. لاتقف.. كن أنت بأي ثمن .. لاتدعهم يشكلونك كما يريدون .. لا تكن صورة لا تليق بك..و شخصية لا تمثلك..كن أنت فقط أنت !";
+"You’ll be on your way Up! You’ll be seeing great sights! You’ll join the high fliers Who soar to high heights." = "وإن كان الأمر معقد.. فلطف الله ممتد";
